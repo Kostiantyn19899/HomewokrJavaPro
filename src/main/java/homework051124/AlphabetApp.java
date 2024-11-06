@@ -1,6 +1,5 @@
 package homework051124;
 
-import java.util.Arrays;
 
 public class AlphabetApp {
     public static void main(String[] args) {
