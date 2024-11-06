@@ -6,8 +6,8 @@ public class AlphabetRus extends AlphabetEng {
 
     public final String[] arrAlphabet = {"ы","в","м","и","у","к","ж","ч","й"};
 
-    public AlphabetRus(String name, int ownNumber) {
-        super(name, ownNumber);
+    public AlphabetRus(String name) {
+        super(name);
     }
 
     @Override

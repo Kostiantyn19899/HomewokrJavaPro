@@ -8,9 +8,9 @@ public class AlphabetEng extends Alphabet {
 
     private int ownNumber;
 
-    public AlphabetEng(String name, int ownNumber) {
+    public AlphabetEng(String name) {
         super(name);
-        this.ownNumber = ownNumber;
+
     }
 
     public int getOwnNumber() {

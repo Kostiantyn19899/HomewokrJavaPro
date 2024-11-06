@@ -6,8 +6,8 @@ public class AlphabetDeu extends AlphabetEng {
 
     public final String[] arrAlphabet = {"s","d","f","ü","ß","ö"};
 
-    public AlphabetDeu(String name, int ownNumber) {
-        super(name, ownNumber);
+    public AlphabetDeu(String name) {
+        super(name);
     }
 
     @Override
